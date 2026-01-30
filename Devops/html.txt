@@ -1,0 +1,9 @@
+<html>
+<head> Welcome to DevOps and Full Stack Lab</head>
+<title> DevOps and Full Stack</title>
+<h1>This is HTML Program</h1>
+<h2>This is HTML Program</h2>
+<h3>This is HTML Program</h3>
+<h4>This is HTML Program</h4>
+<h5>This is HTML Program</h5>
+<h6>This is HTML Program</h6>
